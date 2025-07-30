@@ -1,3 +1,4 @@
+git@github.com:KristinaRadygina/sales-bonus.git
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
